@@ -264,7 +264,7 @@ Replicate those creepy (and usually spot-on) recommendations ala Amazon and Netf
 
 ### Which courses need SE-3123 as a prerequisite?
 
-* only SE 3221 - Capstone Project I
+* only SE 3222 - Capstone Project I
   - your *Uber for \_\_\_\_\_* MVP idea may need ML
   
 ![uber AI](images/uber-ai.png)
