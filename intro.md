@@ -46,7 +46,7 @@ Outline
 * pre-requisites
   - courses
   - knowledge
-* which courses need SE 1223?
+* which courses need SE 3121?
 * subterm vs regular semester pace
 * expectations
 * academic integrity
