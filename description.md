@@ -192,7 +192,8 @@ Your first algo:  make reasonable guesstimates
 
 ![prep](images/logistic-regression.png)
 
-classify a photo correctly:  is it a cat or dog?  
+classify a photo correctly:  is it a cat or dog?
+Will it be sunny or rainy tomorrow?
 
 
 
